@@ -750,9 +750,5 @@ begin
   Result := IsComponentSelected('disablesnippingtool');
 end;
 
-[Run]
-Filename: "{app}\{#ExeName}.exe"; Description: "{cm:startgreenshot}"; Parameters: "{code:GetParamsForGS}"; WorkingDir: "{app}"; Flags: nowait postinstall runasoriginaluser
-Filename: "https://getgreenshot.org/thank-you/?language={language}&version={#Version}"; Flags: shellexec runasoriginaluser
-
 [InstallDelete]
 Name: {app}; Type: dirifempty;
