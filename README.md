@@ -1,7 +1,7 @@
 Greenshot - a free screenshot tool optimized for productivity
 =============================================================
 
-Welcome to the source repository for Greenshot.
+Greenshot fork to work with SCCM/MECM
 
 What is Greenshot?
 ------------------
@@ -17,17 +17,6 @@ Being easy to understand and configurable, Greenshot is an efficient tool for pr
 
 
 [If you find that Greenshot saves you a lot of time and/or money, you are very welcome to support the development of this screenshot software.](https://getgreenshot.org/support/)
-
-
-About this repository
----------------------
-This is the ongoing development branch for future Greenshot releases. 
-
-Releases
---------
-
-You can find a list of all releases (stable and unstable) in the [Github releases](https://github.com/greenshot/greenshot/releases) or in the [version history on our website](https://getgreenshot.org/version-history/).
-The [downloads page on our website](https://getgreenshot.org/downloads/) always links to the latest stable release.
 
 Trademark and Logo Usage Policy
 -------------------------------
